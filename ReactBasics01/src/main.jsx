@@ -17,11 +17,8 @@ const customeElemnt = React.createElement(
 )
 
 createRoot(document.getElementById('root')).render(
-
     
     //  customeElemnt
     // element
-    // <App />
- 
-
+    // <App /> 
 )
