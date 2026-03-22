@@ -22,7 +22,7 @@ const passwordGenrator= useCallback(()=>{
    pass+=str.charAt(char);
 
   }
-  setpassword(pass);
+  setpassword(pass);6
 
 },[length,numYes,charYes,setpassword])
 
